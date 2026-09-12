@@ -1,4 +1,4 @@
-# Babai Graph Isomorphism
+# Babai Graph Isomorphism in Quasipolynomial Time
 
 A Python reference implementation of Babai's graph isomorphism framework for
 finite simple undirected graphs. Returns an isomorphism and generators of the
@@ -6,7 +6,7 @@ automorphism group. Requires Python 3.11+ and only the standard library at runti
 
 This research implementation has large constants and can be slow. Its
 [handwritten analysis](docs/COMPLEXITY.md) derives a conservative
-`exp(O((log n)^5))` bound for graphs with `n` vertices.
+quasipolynomial time bound of `exp(O((log n)^5))` for graphs with `n` vertices.
 
 ## Quick Start
 
