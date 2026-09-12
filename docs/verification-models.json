@@ -1,0 +1,28 @@
+{
+  "seed": 20260913,
+  "cosets": {
+    "comparisons": 240,
+    "nonempty_cosets": 152,
+    "empty_cosets": 88,
+    "events": [
+      "block_descent",
+      "color_window",
+      "constant_fibers",
+      "group_individualization",
+      "ideal_orbit",
+      "large_symmetry",
+      "relation_individualization",
+      "small_ideal",
+      "small_structural_image",
+      "top_action"
+    ]
+  },
+  "replay": {
+    "hypergraphs": 84,
+    "small_right_cutoff_override": 0
+  },
+  "passed": true,
+  "code_sha256": "15c0f489ea85a549ae7373d3098a91ba582a5ba00aaa03ababd22458476ae986",
+  "verifier_sha256": "485a756ad2125799a9dbb8942b49b8eca5aeda82252da2e0172e0b6bb21e9d4e",
+  "elapsed_seconds": 3.103
+}

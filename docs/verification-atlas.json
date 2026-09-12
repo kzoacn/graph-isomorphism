@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "max_vertices": 6,
+  "positive_relabelings_and_full_counts": 209,
+  "negative_pairs_equal_vertices_and_edges": 1340,
+  "source": "https://networkx.org/documentation/stable/reference/generated/networkx.generators.atlas.graph_atlas_g.html",
+  "networkx": "3.6.1",
+  "python": "3.12.12",
+  "code_sha256": "15c0f489ea85a549ae7373d3098a91ba582a5ba00aaa03ababd22458476ae986",
+  "elapsed_seconds": 21.56
+}
