@@ -46,7 +46,7 @@ python3 -m scripts.verify_atlas --max-n 6
 
 ## AI Disclosure
 
-OpenAI Codex generated and revised code, tests, examples, and documentation,
-including the complexity analysis. Automated checks and comparisons against
-independent algorithms do not constitute independent expert review or formal
-verification of the implementation or its claimed complexity bound.
+OpenAI Codex (GPT-6-Astra) generated and revised code, tests, examples, and
+documentation, including the complexity analysis. Automated checks and comparisons
+against independent algorithms do not constitute independent expert review or
+formal verification of the implementation or its claimed complexity bound.
