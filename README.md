@@ -43,6 +43,7 @@ python3 -m scripts.verify_atlas --max-n 6
 - [Correctness review and validation results](docs/REVIEW.md)
 - Mathematical sources: [Babai's paper](https://arxiv.org/abs/1512.03547)
   and [Helfgott's corrected exposition](https://arxiv.org/html/1710.04574).
+- [Babai's 2017 correction announcement](https://people.cs.uchicago.edu/~laci/update.html)
 
 ## AI Disclosure
 
