@@ -1,4 +1,4 @@
-# Babai Graph Isomorphism in Quasipolynomial Time
+# Graph Isomorphism in Quasipolynomial Time
 
 A Python reference implementation of Babai's graph isomorphism framework for
 finite simple undirected graphs. Returns an isomorphism and generators of the
